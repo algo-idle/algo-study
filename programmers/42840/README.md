@@ -33,7 +33,7 @@ answers	return
 모든 사람이 2문제씩을 맞췄습니다.
 
 ## 채점 결과
-![image](https://github.com/algo-idle/algo-study/assets/82014995/81efdbd9-37a4-4c10-abc1-65ad250d0de1)
+
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
-![image](https://github.com/algo-idle/algo-study/assets/82014995/5a014e9d-1092-4c9f-a538-754382558d72)
+
