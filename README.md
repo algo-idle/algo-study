@@ -40,3 +40,4 @@ git push origin [본인 브랜치 이름] # 자기 깃허브 (또는 백준 또�
 ```
 
 # 다음과 같이 파일 제출
+![image](https://github.com/algo-idle/algo-study/assets/82014995/b71d31ce-23b0-4095-9b99-4889f56598ce)
