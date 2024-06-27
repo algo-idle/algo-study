@@ -13,12 +13,12 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/pocket"><img src="https://avatars.githubusercontent.com/u/82014995?v=4" width="100px;" alt=""/><br /><sub><b>pocket</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pocket" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/kaylahee"><img src="https://avatars.githubusercontent.com/u/92175769?v=4" width="100px;" alt=""/><br /><sub><b>kaylahee</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=han1111" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/cux-maks"><img src="https://avatars.githubusercontent.com/u/82014995?v=4" width="100px;" alt=""/><br /><sub><b>pocket</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pocket" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kaylahee"><img src="https://avatars.githubusercontent.com/u/92175769?v=4" width="100px;" alt=""/><br /><sub><b>han1111</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=han1111" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/chohc51"><img src="https://avatars.githubusercontent.com/u/123605730?v=4" width="100px;" alt=""/><br /><sub><b>chohc51</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chohc51" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/mingu830"><img src="https://avatars.githubusercontent.com/u/51395707?v=4" width="100px;" alt=""/><br /><sub><b>mingu830</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mingu830" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/dmb07301"><img src="https://avatars.githubusercontent.com/u/112807640?v=4" width="100px;" alt=""/><br /><sub><b>dmb07301</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dmb07301" /></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/dmb07301"><img src="https://avatars.githubusercontent.com/u/112807899?v=4" width="100px;" alt=""/><br /><sub><b>dmb07301</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dmb07301" /></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hoooooony"><img src="https://avatars.githubusercontent.com/u/112807899?v=4" width="100px;" alt=""/><br /><sub><b>hoooooony</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dmb07301" /></sub></a><br /></td>
   </tr>
 </table>
 <br>
