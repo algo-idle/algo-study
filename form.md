@@ -9,9 +9,7 @@ Hello World!를 출력하시오.
 ## 문제 설명
 print문을 사용하여 주어진 문자열을 출력한다
 
-```python(또는 자신이 쓰는 언어)
-print("Hello World!")
-```
+
 
 ## 입력
 ```
@@ -20,6 +18,10 @@ print("Hello World!")
 ## 출력
 ```
 Hello World!
+```
+## 코드
+```python(또는 자신이 쓰는 언어)
+print("Hello World!")
 ```
 
 ## 채점 결과
