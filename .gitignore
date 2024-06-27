@@ -45,7 +45,10 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+<<<<<<< HEAD
 .idea
+=======
+>>>>>>> c474dc98431bedd7c320bef84a2165be18a35ffb
 
 # AWS User-specific
 .idea/**/aws.xml

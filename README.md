@@ -13,11 +13,12 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/pocket"><img src="https://avatars.githubusercontent.com/u/82014995?v=4" width="100px;" alt=""/><br /><sub><b>pocket</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pocket" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/han1111"><img src="https://avatars.githubusercontent.com/u/92175769?v=4" width="100px;" alt=""/><br /><sub><b>han1111</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=han1111" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/cux-maks"><img src="https://avatars.githubusercontent.com/u/82014995?v=4" width="100px;" alt=""/><br /><sub><b>pocket</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pocket" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kaylahee"><img src="https://avatars.githubusercontent.com/u/92175769?v=4" width="100px;" alt=""/><br /><sub><b>han1111</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=han1111" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/chohc51"><img src="https://avatars.githubusercontent.com/u/123605730?v=4" width="100px;" alt=""/><br /><sub><b>chohc51</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chohc51" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/mingu830"><img src="https://avatars.githubusercontent.com/u/51395707?v=4" width="100px;" alt=""/><br /><sub><b>mingu830</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mingu830" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/dmb07301"><img src="https://avatars.githubusercontent.com/u/112807640?v=4" width="100px;" alt=""/><br /><sub><b>dmb07301</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dmb07301" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MinGu-Jeong"><img src="https://avatars.githubusercontent.com/u/51395707?v=4" width="100px;" alt=""/><br /><sub><b>mingu830</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mingu830" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/dradnats1012 "><img src="https://avatars.githubusercontent.com/u/112807640?v=4" width="100px;" alt=""/><br /><sub><b>dmb07301</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dmb07301" /></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hoooooony"><img src="https://avatars.githubusercontent.com/u/112807899?v=4" width="100px;" alt=""/><br /><sub><b>cjh418</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cjh418" /></sub></a><br /></td>
   </tr>
 </table>
 <br>
@@ -38,5 +39,8 @@ git commit -m "년/월/일-분류" # 분류는 자기 마음대로 (class또는 
 
 git push origin [본인 브랜치 이름] # 자기 깃허브 (또는 백준 또는 리트코드 또는 프로그래머스) 이름으로 브랜치 생성 후 업로드
 ```
+<br>
+
 
 # 다음과 같이 파일 제출
+![image](https://github.com/algo-idle/algo-study/assets/82014995/b71d31ce-23b0-4095-9b99-4889f56598ce)
