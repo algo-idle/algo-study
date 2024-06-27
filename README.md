@@ -17,8 +17,11 @@
     <td align="center"><a href="https://github.com/kaylahee"><img src="https://avatars.githubusercontent.com/u/92175769?v=4" width="100px;" alt=""/><br /><sub><b>han1111</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=han1111" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/chohc51"><img src="https://avatars.githubusercontent.com/u/123605730?v=4" width="100px;" alt=""/><br /><sub><b>chohc51</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chohc51" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/MinGu-Jeong"><img src="https://avatars.githubusercontent.com/u/51395707?v=4" width="100px;" alt=""/><br /><sub><b>mingu830</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mingu830" /></sub></a><br /></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/dradnats1012 "><img src="https://avatars.githubusercontent.com/u/112807640?v=4" width="100px;" alt=""/><br /><sub><b>dmb07301</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dmb07301" /></sub></a><br /></td>
       <td align="center"><a href="https://github.com/hoooooony"><img src="https://avatars.githubusercontent.com/u/112807899?v=4" width="100px;" alt=""/><br /><sub><b>cjh418</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cjh418" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/chaeseungyun"><img src="https://avatars.githubusercontent.com/u/101871802?v=4" width="100px;" alt=""/><br /><sub><b>thslr57</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thslr57" /></sub></a><br /></td>
   </tr>
 </table>
 <br>
