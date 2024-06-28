@@ -38,10 +38,12 @@ NO
 ```
 
 ## 채점 결과
+<img width="1169" alt="image" src="https://github.com/algo-idle/algo-study/assets/51395707/b073056f-bf20-41a3-a2b2-aa88696d4dbd">
 
 
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
+<img width="1198" alt="image" src="https://github.com/algo-idle/algo-study/assets/51395707/aaafd257-08cc-4a53-9aec-04c1de27d2c6">
 
 
 
