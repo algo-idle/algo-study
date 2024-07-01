@@ -52,7 +52,7 @@ print(answer)
 ```
 
 ## 채점 결과
-![image](result_img.png)
+![image](result.png)
 
 ## 스트릭
-![image](streak_img.png)
+![image](streak.png)
