@@ -29,11 +29,13 @@
 ```
 
 ## 채점 결과
+![image](https://github.com/algo-idle/algo-study/assets/51395707/1363f878-6bed-426a-9b26-eeb5bef48507)
 
 
 
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
+![image](https://github.com/algo-idle/algo-study/assets/51395707/a30a4602-3343-432b-b018-d792957c3be8)
 
 
 
