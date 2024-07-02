@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8516a3df-1661-4fa9-b5b1-6950291252ab}</ProjectGuid>
-    <RootNamespace>LeetCode</RootNamespace>
+    <ProjectGuid>{c3ec3731-b0f8-41bb-acf2-ccf6fa926d5c}</ProjectGuid>
+    <RootNamespace>My66</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Plus One.cpp" />
-    <ClCompile Include="Repeated Substring Pattern.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
