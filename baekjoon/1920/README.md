@@ -29,5 +29,9 @@ N개의 정수 A[1], A[2], …, A[N]이 주어져 있을 때, 이 안에 X라는
 ```
 
 ## 채점 결과
+<img width="1189" alt="image" src="https://github.com/algo-idle/algo-study/assets/51395707/4eb44c9a-1bbf-468e-91a9-ddc8fdd00dcb">
+
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
+<img width="1177" alt="image" src="https://github.com/algo-idle/algo-study/assets/51395707/1ec51370-c5c9-4e9e-85c4-e9dd1b08eb7f">
+
