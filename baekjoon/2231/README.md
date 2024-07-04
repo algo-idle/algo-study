@@ -24,5 +24,8 @@
 ```
 
 ## 채점 결과
+<img width="1158" alt="image" src="https://github.com/algo-idle/algo-study/assets/51395707/748c9bbb-5989-40fa-915d-7f79c232cf32">
+
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
+<img width="1195" alt="image" src="https://github.com/algo-idle/algo-study/assets/51395707/4535820f-f683-4f11-9a91-e45966352f76">
