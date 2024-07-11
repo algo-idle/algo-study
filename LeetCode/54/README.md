@@ -4,7 +4,7 @@
 Given an m x n matrix, return all elements of the matrix in spiral order.
 
 ## 문제 설명
-입력받은 문자열의 마지막 단어의 길이를 구하라.
+행렬의 요소를 시계방향으로 출력하라.
 
 ## 예시
 ### Example 1:  
