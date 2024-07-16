@@ -17,8 +17,10 @@ brown	yellow	return
 
 
 ## 채점 결과
+<img width="776" alt="스크린샷 2024-07-16 오후 11 17 47" src="https://github.com/user-attachments/assets/0c2930f7-ae66-4152-bff1-2da9ecafc819">
 
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
+<img width="780" alt="스크린샷 2024-07-16 오후 11 18 29" src="https://github.com/user-attachments/assets/a5b02afa-0649-4ab6-9949-68f2ba090a48">
 
 
