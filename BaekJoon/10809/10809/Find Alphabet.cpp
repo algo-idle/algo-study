@@ -13,21 +13,8 @@ int main(void) {
 		res[i].push_back(-1);
 	}
 
-	int ver = 0;
-	for (int i = 0; i < s.size() - 1; i++) {
-		for (int j = i + 1; j < s.size(); j++) {
-			if (s[i] == s[j]) {
-				ver++;
-			}
-		}
-		
-		if (ver >= 1) {
-			remove(s.begin() + i + 1, s.end(), s[i]);
-			ver = 0;
-		}
-	}
-
-	for (int i = 0; i < s.size(); i++) {
+	for (int i = s.size() - 1; i >= 0; i--) {
+		//cout << i << " " << s[i] << "\n";
 		res[s[i] - 97][0] = i;
 	}
 
