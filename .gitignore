@@ -45,7 +45,6 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.ideag
 
 # AWS User-specific
 .idea/**/aws.xml
@@ -64,9 +63,7 @@
 
 # Gradle
 .idea/**/gradle.xml
-.idea/**/libraries
-
-push.bat
+.idea/**/librariesg
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
