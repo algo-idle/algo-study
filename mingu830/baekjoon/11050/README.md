@@ -25,10 +25,12 @@
 
 
 ## 채점 결과
+<img width="1232" alt="image" src="https://github.com/user-attachments/assets/b7f22512-4076-4293-b314-aaa4c9313792">
 
 
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
+<img width="1212" alt="image" src="https://github.com/user-attachments/assets/421f35de-81dd-4825-b9b5-973d75b00ec6">
 
 
 
