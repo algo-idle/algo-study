@@ -16,6 +16,8 @@
 첫째 줄에 x월 y일이 무슨 요일인지에 따라 SUN, MON, TUE, WED, THU, FRI, SAT중 하나를 출력한다.
 
 ## 채점 결과
+<img width="1190" alt="image" src="https://github.com/user-attachments/assets/38a4156c-7dfe-4c91-9406-60e27c8c7c05">
 
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/3e0063ee-50c6-44c3-8d24-07c663199d86">
