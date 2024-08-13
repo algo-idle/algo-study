@@ -58,7 +58,6 @@ import sys
 read = sys.stdin.readline
 
 K = int(read())
-# l = [int(read()) for _ in range(K)]
 stack = []
 for _ in range(K):
     num = int(read())
