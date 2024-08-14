@@ -21,3 +21,4 @@
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
 <img width="1202" alt="image" src="https://github.com/user-attachments/assets/3e0063ee-50c6-44c3-8d24-07c663199d86">
+ 
