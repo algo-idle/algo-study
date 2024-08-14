@@ -53,6 +53,6 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add README.md
         git commit -m "Update README with latest push data"
-        git pull --rebase origin main
+        git pull origin main --strategy-option=theirs
         git push origin HEAD:main
       if: success()
