@@ -48,9 +48,7 @@ hesitate
 ```
 
 ## 채점 결과
-<img width="1189" alt="image" src="https://github.com/user-attachments/assets/21e69e0c-ebab-490a-9e8a-5291c675f1b7">
 
 
 ## 스트릭 (또는 자신이 매일 문제를 풀었다는 증거)
-<img width="1192" alt="image" src="https://github.com/user-attachments/assets/d9607ccd-f4b4-4af3-befe-7a1b1329ef1e">
 
