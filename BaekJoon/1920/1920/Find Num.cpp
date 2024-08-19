@@ -35,7 +35,7 @@ int main(void) {
                 start = mid + 1;
             }
             else {
-                check[k] = 1;
+                check[k]++;
                 break;
             }
         }
