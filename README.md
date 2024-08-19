@@ -6,7 +6,8 @@
 - 백준의 경우 브론즈 2 이상 문제 풀기
 - 프로그래머스, 리트코드의 경우 난이도가 세분화 되어있지 않기 때문에 적당한 난이도 찾아서 풀기
 - 매일 자정 전까지 문제 풀고 인증하기
-- **벌금: 1000원 (모임통장)**
+- **벌금: 2000원 (모임통장)**
+  > 2024년 07월 16일 개정
 <br>
 
 ## 🙋 Contributors
@@ -22,13 +23,14 @@
     <td align="center"><a href="https://github.com/dradnats1012 "><img src="https://avatars.githubusercontent.com/u/112807640?v=4" width="100px;" alt=""/><br /><sub><b>dmb07301</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dmb07301" /></sub></a><br /></td>
       <td align="center"><a href="https://github.com/hoooooony"><img src="https://avatars.githubusercontent.com/u/112807899?v=4" width="100px;" alt=""/><br /><sub><b>cjh418</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cjh418" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/chaeseungyun"><img src="https://avatars.githubusercontent.com/u/101871802?v=4" width="100px;" alt=""/><br /><sub><b>thslr57</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thslr57" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sung6770"><img src="https://avatars.githubusercontent.com/u/114071008?v=4" width="100px;" alt=""/><br /><sub><b>sung6770</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sung6770" /></sub></a><br /></td>
   </tr>
 </table>
 <br>
 
 
 ## 코드 양식 (마크다운 복사해서 사용하세요.)
-[코드 양식](./form.md)
+[코드 양식](form.md)
 
 <br>
 
