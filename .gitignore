@@ -10,6 +10,8 @@
 *.lo
 *.o
 *.obj
+*.vcxproj
+*.vcxproj.filters
 
 # Precompiled Headers
 *.gch
