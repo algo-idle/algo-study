@@ -1,21 +1,21 @@
-# 9012¹ø: °ýÈ£
+# 11441ë²ˆ: í•© êµ¬í•˜ê¸°
 
-## ¹®Á¦
-N°³ÀÇ ¼ö A1, A2, ..., ANÀÌ ÀÔ·ÂÀ¸·Î ÁÖ¾îÁø´Ù. ÃÑ M°³ÀÇ ±¸°£ i, j°¡ ÁÖ¾îÁ³À» ¶§, i¹øÂ° ¼öºÎÅÍ j¹øÂ° ¼ö±îÁö ÇÕÀ» ±¸ÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
+## ë¬¸ì œ
+Nê°œì˜ ìˆ˜ A1, A2, ..., ANì´ ìž…ë ¥ìœ¼ë¡œ ì£¼ì–´ì§„ë‹¤. ì´ Mê°œì˜ êµ¬ê°„ i, jê°€ ì£¼ì–´ì¡Œì„ ë•Œ, ië²ˆì§¸ ìˆ˜ë¶€í„° jë²ˆì§¸ ìˆ˜ê¹Œì§€ í•©ì„ êµ¬í•˜ëŠ” í”„ë¡œê·¸ëž¨ì„ ìž‘ì„±í•˜ì‹œì˜¤.
 
-## ¹®Á¦ ¼³¸í
-Ã¹Â° ÁÙ¿¡ ¼öÀÇ °³¼ö NÀÌ ÁÖ¾îÁø´Ù. (1 ¡Â N ¡Â 100,000) µÑÂ° ÁÙ¿¡´Â A1, A2, ..., ANÀÌ ÁÖ¾îÁø´Ù. (-1,000 ¡Â Ai ¡Â 1,000) ¼ÂÂ° ÁÙ¿¡´Â ±¸°£ÀÇ °³¼ö MÀÌ ÁÖ¾îÁø´Ù. (1 ¡Â M ¡Â 100,000) ³ÝÂ° ÁÙºÎÅÍ M°³ÀÇ ÁÙ¿¡´Â °¢ ±¸°£À» ³ªÅ¸³»´Â i¿Í j°¡ ÁÖ¾îÁø´Ù. (1 ¡Â i ¡Â j ¡Â N)
+## ë¬¸ì œ ì„¤ëª…
+ì²«ì§¸ ì¤„ì— ìˆ˜ì˜ ê°œìˆ˜ Nì´ ì£¼ì–´ì§„ë‹¤. (1 â‰¤ N â‰¤ 100,000) ë‘˜ì§¸ ì¤„ì—ëŠ” A1, A2, ..., ANì´ ì£¼ì–´ì§„ë‹¤. (-1,000 â‰¤ Ai â‰¤ 1,000) ì…‹ì§¸ ì¤„ì—ëŠ” êµ¬ê°„ì˜ ê°œìˆ˜ Mì´ ì£¼ì–´ì§„ë‹¤. (1 â‰¤ M â‰¤ 100,000) ë„·ì§¸ ì¤„ë¶€í„° Mê°œì˜ ì¤„ì—ëŠ” ê° êµ¬ê°„ì„ ë‚˜íƒ€ë‚´ëŠ” iì™€ jê°€ ì£¼ì–´ì§„ë‹¤. (1 â‰¤ i â‰¤ j â‰¤ N)
 
-ÃÑ M°³ÀÇ ÁÙ¿¡ °ÉÃÄ ÀÔ·ÂÀ¸·Î ÁÖ¾îÁø ±¸°£ÀÇ ÇÕÀ» Ãâ·ÂÇÑ´Ù.
+ì´ Mê°œì˜ ì¤„ì— ê±¸ì³ ìž…ë ¥ìœ¼ë¡œ ì£¼ì–´ì§„ êµ¬ê°„ì˜ í•©ì„ ì¶œë ¥í•œë‹¤.
 
-## ¿¹½Ã
+## ì˜ˆì‹œ
 ### Example 1:  
-
+![image](https://github.com/user-attachments/assets/8cb1a2f2-2fd5-4934-8e69-e39fc6593d7d)
 
 ### Example 2:  
+![image](https://github.com/user-attachments/assets/d6c43553-aa56-47a4-926b-2895fe944713)
 
-
-# ÄÚµå 1
+# ì½”ë“œ 1
 ```cpp
 #include <iostream>
 #include <vector>
@@ -46,27 +46,27 @@ int main(void) {
 	return 0;
 }
 ```
-½Ã°£ ÃÊ°ú ¶ä
-±×·¡¼­ ½Ã°£ º¹Àâµµ¸¦ ºÐ¼®ÇØº½
+ì‹œê°„ ì´ˆê³¼ ëœ¸
+ê·¸ëž˜ì„œ ì‹œê°„ ë³µìž¡ë„ë¥¼ ë¶„ì„í•´ë´„
 
-º¤ÅÍ 'nums'¿¡ ÀÔ·ÂÀ» ¹ÞÀ» ¶§ÀÇ ½Ã°£ º¹Àâµµ´Â 'O(n)'
-±¸°£ 'a'¿¡¼­ 'b'±îÁöÀÇ ÇÕÀ» ±¸ÇÏ´Âµ¥, ÀÌ °æ¿ì 'O(b - a + 1)'
-ÃÖ¾ÇÀÇ °æ¿ì ±¸°£ÀÌ ÀüÃ¼ ¹è¿­¿¡ ÇØ´çÇÒ °æ¿ì 'O(n)'
-±¸°£ÀÌ m°³°¡ ÁÖ¾îÁö°Ô µÈ´Ù¸é, ½Ã°£ º¹Àâµµ´Â 'O(m * n)'
+ë²¡í„° 'nums'ì— ìž…ë ¥ì„ ë°›ì„ ë•Œì˜ ì‹œê°„ ë³µìž¡ë„ëŠ” 'O(n)'
+êµ¬ê°„ 'a'ì—ì„œ 'b'ê¹Œì§€ì˜ í•©ì„ êµ¬í•˜ëŠ”ë°, ì´ ê²½ìš° 'O(b - a + 1)'
+ìµœì•…ì˜ ê²½ìš° êµ¬ê°„ì´ ì „ì²´ ë°°ì—´ì— í•´ë‹¹í•  ê²½ìš° 'O(n)'
+êµ¬ê°„ì´ mê°œê°€ ì£¼ì–´ì§€ê²Œ ëœë‹¤ë©´, ì‹œê°„ ë³µìž¡ë„ëŠ” 'O(m * n)'
 
-Áï, n°ú mÀÌ ÃæºÐÈ÷ Å« °æ¿ì ½Ã°£ ÃÊ°¡°¡ ¹ß»ýÇÒ ¼ö ÀÖÀ½
+ì¦‰, nê³¼ mì´ ì¶©ë¶„ížˆ í° ê²½ìš° ì‹œê°„ ì´ˆê°€ê°€ ë°œìƒí•  ìˆ˜ ìžˆìŒ
 
-¿¹¸¦ µé¾î
+ì˜ˆë¥¼ ë“¤ì–´
 1. n = 100,000
 2. m = 100,000
-3. ¸ðµç m°³ÀÇ ±¸°£ÀÌ ¹è¿­ ÀüÃ¼ÀÇ ÇÕÀ» ±¸ÇÏ´Â °æ¿ì
+3. ëª¨ë“  mê°œì˜ êµ¬ê°„ì´ ë°°ì—´ ì „ì²´ì˜ í•©ì„ êµ¬í•˜ëŠ” ê²½ìš°
 
-ÀÌ ¿¹½Ã¿¡¼­ÀÇ ½Ã°£ º¹Àâµµ´Â 'O(n * m) = O(10^10)'ÀÌ µÊ
-µû¶ó¼­, 1ÃÊ ÀÌ³»·Î ÇØ°áÇÒ ¼ö ¾ø°Ô µÊ
+ì´ ì˜ˆì‹œì—ì„œì˜ ì‹œê°„ ë³µìž¡ë„ëŠ” 'O(n * m) = O(10^10)'ì´ ë¨
+ë”°ë¼ì„œ, 1ì´ˆ ì´ë‚´ë¡œ í•´ê²°í•  ìˆ˜ ì—†ê²Œ ë¨
 
-À§¿Í °°Àº ÀÌÀ¯·Î ½Ã°£ ÃÊ°ú°¡ ¶¹°í, ±×·¸±â ¶§¹®¿¡ ÇØ°á ¹æ¹ýÀ» ¾Ë¾Æº» °á°ú "´©Àû ÇÕ" ÀÌ¶ó´Â ¾Ë°í¸®ÁòÀ» ½èÀ½
+ìœ„ì™€ ê°™ì€ ì´ìœ ë¡œ ì‹œê°„ ì´ˆê³¼ê°€ ë–´ê³ , ê·¸ë ‡ê¸° ë•Œë¬¸ì— í•´ê²° ë°©ë²•ì„ ì•Œì•„ë³¸ ê²°ê³¼ "ëˆ„ì  í•©" ì´ë¼ëŠ” ì•Œê³ ë¦¬ì¦˜ì„ ì¼ìŒ
 
-# ÄÚµå 2
+# ì½”ë“œ 2
 ```cpp
 #include <iostream>
 #include <vector>
@@ -97,11 +97,13 @@ int main(void) {
 	return 0;
 }
 ```
-´©Àû ÇÕ ¾Ë°í¸®ÁòÀ» ½èÀ½¿¡µµ ºÒ±¸ÇÏ°í ½Ã°£ ÃÊ°ú°¡ ¶¹´Ù.
-±×·¡¼­ ¸¶Áö¸·À¸·Î cin°ú coutÀÇ µ¿±âÈ­¸¦ ºñÈ°¼ºÈ­Çß´Ù.
-ÇØ°áµÆ´Ù.
+ëˆ„ì  í•© ì•Œê³ ë¦¬ì¦˜ì„ ì¼ìŒì—ë„ ë¶ˆêµ¬í•˜ê³  ì‹œê°„ ì´ˆê³¼ê°€ ë–´ë‹¤.
 
-# ÄÚµå 3
+ê·¸ëž˜ì„œ ë§ˆì§€ë§‰ìœ¼ë¡œ cinê³¼ coutì˜ ë™ê¸°í™”ë¥¼ ë¹„í™œì„±í™”í–ˆë‹¤.	
+
+í•´ê²°ëë‹¤.	
+
+# ì½”ë“œ 3
 ```cpp
 #include <iostream>
 #include <vector>
@@ -118,7 +120,7 @@ int main(void) {
         int num;
         std::cin >> num;
 
-        // ´©Àû ÇÕ °è»ê
+        // ëˆ„ì  í•© ê³„ì‚°
         nums[i] = nums[i - 1] + num; 
     }
 
@@ -128,7 +130,7 @@ int main(void) {
         int a, b;
         std::cin >> a >> b;
 
-        // ±¸°£ ÇÕ °è»ê
+        // êµ¬ê°„ í•© ê³„ì‚°
         std::cout << nums[b] - nums[a - 1] << "\n"; 
     }
 
@@ -136,11 +138,10 @@ int main(void) {
 }
 ```
 
-## Ã¤Á¡ °á°ú
-![image](https://github.com/user-attachments/assets/62492406-3d58-45f2-a4db-c80cf9c89746)
+## ì±„ì  ê²°ê³¼
+![image](https://github.com/user-attachments/assets/2d58fdca-3873-499f-ab61-01a12a9763c0)
 
+## ìŠ¤íŠ¸ë¦­ (ë˜ëŠ” ìžì‹ ì´ ë§¤ì¼ ë¬¸ì œë¥¼ í’€ì—ˆë‹¤ëŠ” ì¦ê±°)
+![image](https://github.com/user-attachments/assets/b3ebd263-a425-4431-8b9a-fec7f83e1e1f)
 
-## ½ºÆ®¸¯ (¶Ç´Â ÀÚ½ÅÀÌ ¸ÅÀÏ ¹®Á¦¸¦ Ç®¾ú´Ù´Â Áõ°Å)
-![image](https://github.com/user-attachments/assets/e53a838a-0ac9-4fcc-9932-54d0500f898a)
-
-12½Ã Áö³ª°í Ç®¾î¼­ °ø¹éÀÌ 2°³ÀÎ..!
+12ì‹œ ì§€ë‚˜ê³  í’€ì–´ì„œ ê³µë°± ë°œìƒ
