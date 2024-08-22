@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d8aed382-81bf-41b8-9de0-59e674e0f367)# 15649번: N과 M (1)
+# 15649번: N과 M (1)
 
 ## 문제
 자연수 N과 M이 주어졌을 때, 아래 조건을 만족하는 길이가 M인 수열을 모두 구하는 프로그램을 작성하시오.
