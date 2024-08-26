@@ -1,0 +1,65 @@
+# 1157번: 단어공부(브론즈 1)
+| 시간 제한 | 메모리 제한 |
+|:-----:|:------:|
+|  2초   | 128MB  |
+
+## 문제
+알파벳 대소문자로 된 단어가 주어지면, 이 단어에서 가장 많이 사용된 알파벳이 무엇인지 알아내는 프로그램을 작성하시오. 단, 대문자와 소문자를 구분하지 않는다.
+## 입력
+첫째 줄에 알파벳 대소문자로 이루어진 단어가 주어진다. 주어지는 단어의 길이는 1,000,000을 넘지 않는다.
+
+## 출력
+첫째 줄에 이 단어에서 가장 많이 사용된 알파벳을 대문자로 출력한다. 단, 가장 많이 사용된 알파벳이 여러 개 존재하는 경우에는 ?를 출력한다.
+
+## 예제 입력 1
+```text
+Mississipi
+```
+## 예제 출력 1
+```text
+?
+```
+
+## 예제 입력 2
+```text
+zZa
+```
+## 예제 출력 2
+```text
+Z
+```
+
+
+## 예제 입력 3
+```text
+baaa
+```
+## 예제 출력 3
+```text
+A
+```
+
+
+## 코드
+```python
+from sys import *
+import collections
+arr = stdin.readline().rstrip()
+result = []
+arr_list = arr.upper()
+arr_dict = collections.Counter(arr_list)
+check = max(arr_dict.values())
+for i in arr_dict.keys():
+    if arr_dict[i] == check:
+        result.append(i)
+if len(result) == 1:
+    print(*result)
+else:
+    print("?")
+```
+
+## 채점 결과
+![image](result.png)
+
+## 스트릭
+![image](streak.png)
