@@ -36,6 +36,7 @@ maps	answer
 [[1,0,1,1,1],[1,0,1,0,1],[1,0,1,1,1],[1,1,1,0,0],[0,0,0,0,1]]	-1
 
 ## 채점 결과
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/b16f29e5-e5b3-4348-823b-8b3c32e61115">
 
 
 
