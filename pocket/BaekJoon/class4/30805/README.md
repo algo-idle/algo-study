@@ -128,4 +128,4 @@ print(*res)
 ![img.png](img.png)
 
 ## 스트릭
-![img_1.png](img_1.png)
+![img_1.png](img_1.png) 
