@@ -1,55 +1,64 @@
 #include <iostream>
 #include <vector>
-#include <stack>
+#include <queue>
 
+// 가로세로
 int dx[4] = { -1, 1, 0, 0 };
 int dy[4] = { 0, 0, -1, 1 };
 
 int main(void) {
-	int n, m;
-	std::cin >> n >> m;
+    int n, m;
+    std::cin >> n >> m;
 
-	std::vector<std::vector<int>> pic;
-	std::vector<std::vector<bool>> isvisted;
+    std::vector<std::vector<int>> pic(n, std::vector<int>(m, 0));
+    std::vector<std::vector<bool>> isVisited(n, std::vector<bool>(m, false));
 
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < m; j++) {
-			int num;
-			std::cin >> num;
-			pic[i].push_back(num);
-			isvisted[i].push_back(false);
-		}
-	}
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < m; j++) {
+            std::cin >> pic[i][j];
+        }
+    }
 
-	std::stack<std::pair<int, int>> s;
-	isvisted[0][0] = true;
-	
-	s.push({ 0, 0 });
+    int maxSize = 0;  // 가장 큰 그림 크기
+    int count = 0;    // 그림 개수
 
-	int cnt = 0;
-	while (!s.empty()) {
-		std::pair<int, int> cur = s.top();
-		s.pop();
-		
-		for (int i = 0; i < 4; i++) {
-			int nx = cur.first + dx[i];
-			int ny = cur.second + dy[i];
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < m; j++) {
+            if (pic[i][j] == 1 && !isVisited[i][j]) {
+                // 새로운 그림을 발견했으므로 BFS 시작
+                std::queue<std::pair<int, int>> q;
+                q.push({ i, j });
+                isVisited[i][j] = true;
+                int width = 0;
 
-			if (nx < 0 || nx >= n || ny < 0 || ny >= n) {
-				continue;
-			}
+                while (!q.empty()) {
+                    auto cur = q.front();
+                    q.pop();
+                    width++;
 
-			if (isvisted[nx][ny] || pic[nx][ny] != 1) {
-				continue;
-			}
-			else {
-				cnt++;
-			}
+                    for (int dir = 0; dir < 4; dir++) {
+                        int nx = cur.first + dx[dir];
+                        int ny = cur.second + dy[dir];
 
-			isvisted[nx][ny] = true;
-			s.push({ nx, ny });
-		}
-	}
+                        if (nx < 0 || ny < 0 || nx >= n || ny >= m) {
+                            continue;
+                        }
+                        if (pic[nx][ny] == 1 && !isVisited[nx][ny]) {
+                            q.push({ nx, ny });
+                            isVisited[nx][ny] = true;
+                        }
+                    }
+                }
 
-	return 0;
+                // 그림 크기 비교
+                if (width > maxSize) {
+                    maxSize = width;
+                }
+                count++;
+            }
+        }
+    }
+
+    std::cout << count << "\n" << maxSize;
+    return 0;
 }
