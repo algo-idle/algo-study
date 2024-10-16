@@ -9,7 +9,7 @@ for _ in range(N):
     try:
         nums = list(map(int, sys.stdin.readline().strip()[1:-1].split(',')))
     except:
-        nums = []
+        numㅇs = []
     isReverse = False
     isError = False
     for order in p:
