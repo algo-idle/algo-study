@@ -1,4 +1,4 @@
-# 순위
+# Invert Binary Tree
 
 ## 문제 설명
 Given the root of a binary tree, invert the tree, and return its root.
